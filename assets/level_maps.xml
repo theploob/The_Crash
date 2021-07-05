@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level_maps>
+	<level>
+		<name>Sandbox</name>
+		<csv>Sandbox.csv</csv>
+		<size_x>20</size_x>
+		<size_y>20</size_y>
+	</level>
+</level_maps>

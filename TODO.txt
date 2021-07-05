@@ -1,0 +1,3 @@
+in levels.py
+    stricter checking for map sizes
+    allow for more than 1 enemy configuration per section, more than 1 config per section in general
